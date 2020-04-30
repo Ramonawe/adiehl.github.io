@@ -1,1 +1,5 @@
-
+Automatisierte Entscheidung
+Automatisierte\s+Entscheidung
+automatisierte\s+Beurteilung
+Profiling
+Scoring
