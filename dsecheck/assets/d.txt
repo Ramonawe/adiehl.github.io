@@ -7,3 +7,4 @@ Dauer
 gespeichert
 Kriterien für die Festlegung dieser Dauer
 Kriterien für die Festlegung der Dauer
+Dauer der Datenspeicherung
