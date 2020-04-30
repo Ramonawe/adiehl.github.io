@@ -2,3 +2,4 @@ Recht auf Löschung
 Recht\s+auf\s+Löschung
 Löschungsanspruch
 oder\s+Löschung
+Löschungsrecht
