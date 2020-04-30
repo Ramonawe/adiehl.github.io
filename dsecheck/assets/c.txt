@@ -8,3 +8,5 @@ Offenlegung
 übermitteln
 übermittelt
 Wer bekommt Ihre Daten
+mit wem teilen
+mit wem teilt
