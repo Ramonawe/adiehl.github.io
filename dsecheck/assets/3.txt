@@ -3,3 +3,6 @@ Speicherungsdauer
 Dauer\s+der\s+Speicherung
 Geplante\s+Dauer
 Aufbewahrungsfristen
+Dauer, für die die personenbezogenen Daten gespeichert werden
+Kriterien für die Festlegung dieser Dauer
+Kriterien für die Festlegung der Dauer
