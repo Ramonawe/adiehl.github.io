@@ -1,1 +1,9 @@
-
+Speicherungsdauer
+Speicherungsdauer
+Dauer\s+der\s+Speicherung
+Geplante\s+Dauer
+Aufbewahrungsfristen
+Dauer
+gespeichert
+Kriterien für die Festlegung dieser Dauer
+Kriterien für die Festlegung der Dauer
