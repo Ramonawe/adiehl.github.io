@@ -2,3 +2,6 @@ Herkunft der Daten
 Herkunft\s+der\s+Daten
 Datenquelle
 Ursprung\s+der\s+Daten
+von Ihnen
+Wo kommen deine Daten her
+Wo kommen Ihre Daten her
