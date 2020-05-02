@@ -2,3 +2,5 @@ Beschwerderecht
 Recht\s+auf\s+Beschwerde
 Beschwerde
 Aufsichtsbehörde
+Art. 77
+77 DSGVO
