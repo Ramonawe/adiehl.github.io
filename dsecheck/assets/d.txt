@@ -9,4 +9,9 @@ Kriterien für die Festlegung dieser Dauer
 Kriterien für die Festlegung der Dauer
 Dauer der Datenspeicherung
 Wie lange werden Ihre Daten gespeichert
+Wie lange werden meine Daten gespeichert
 Datenaufbewahrung
+Wie lange speichern wir Deine Daten
+Wie lange speichen wir Ihre Daten
+speichern
+solange gespeichert
