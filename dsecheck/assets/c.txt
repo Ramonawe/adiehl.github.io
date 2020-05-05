@@ -18,3 +18,4 @@ Weitergabe an öffentliche Stellen
 Weitergabe zur Zahlungsabwicklung
 teilen 
 weitergeben
+weiterleiten
